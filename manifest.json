@@ -1,0 +1,22 @@
+{
+  "name": "YzevVape",
+  "description": "轻松畅享 随心所欲",
+  "start_url": "/vape/",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white",
+  "icons": [
+    {
+      "src": "/vape/images/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/vape/images/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
